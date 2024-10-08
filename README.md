@@ -16,6 +16,26 @@ I'm a passionate developer who loves working with various programming languages 
 - 🔗 Check out my projects and contributions below.
 
 Feel free to connect with me or explore my repositories!
-
-[![GitHub Follow](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/cfg-boop)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
+# About Me
+Hey, I'm CFG, I typically go by Antonio though. I'm an avid Computer Science enthusiast, born and raised in the Warsaw, Poland.
+
+# Contact Me
+
+[[Website]] | [[Discord]] | [[Email]]
+
+[Website]: https://cfghub.fun
+[Discord]: https://discord.app.com/users/818829226810540092
+[Email]: mailto:contact@cfghub.fun
+
+# My Skills
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,js,ts,lua,md" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,vscode,discord" />
+</p>
+
+<!-- just analytics -->
+[](https://hit.yhype.me/github/profile?user_id=64010636)
