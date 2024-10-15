@@ -9,9 +9,9 @@ Hey, I'm CFG, I typically go by Antonio though. I'm an avid Computer Science ent
 
 [[Website]] | [[Discord]] | [[Email]]
 
-[Website]: https://cfghub.fun
+[Website]: https://cfg.today
 [Discord]: https://discord.app.com/users/818829226810540092
-[Email]: mailto:contact@cfghub.fun
+[Email]: mailto:contact@cfg.today
 
 # Services
 
