@@ -18,13 +18,13 @@ Hey, I'm CFG, I typically go by Antonio though. I'm an avid Computer Science ent
 <p>
   Languages  <br>
   <br>
-  <img src="https://skillicons.dev/icons?i=cpp,py,ts,js,lua,nextjs,nodejs,php,react,pytorch" />
+  <img src="https://skillicons.dev/icons?i=py,ts,js,nodejs,php,react,pytorch" />
 </p>
 <p>
   Programs <br>
   <br>
-  <img src="https://skillicons.dev/icons?i=idea,vscode,pycharm,webstorm,xd,aws," /> <br>
+  <img src="https://skillicons.dev/icons?i=idea,vscode,pycharm,webstorm,aws" /> <br>
  <br> Operating Systems<br>
   <br>
-  <img src="https://skillicons.dev/icons?i=apple,windows,linux" />
+  <img src="https://skillicons.dev/icons?i=apple,windows" />
 </p>
