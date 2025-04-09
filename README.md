@@ -18,7 +18,7 @@ Hey, I'm CFG, I typically go by Antonio though. I'm an avid Computer Science ent
 <p>
   Languages  <br>
   <br>
-  <img src="https://skillicons.dev/icons?i=cpp,py,ts,js,lua,nextjs,nodejs,php,react,pytorch" />
+  <img src="B3L Loga (2).png" />
 </p>
 <p>
   Programs <br>
