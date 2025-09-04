@@ -14,17 +14,6 @@
 
 ---
 
-## 🧠 About Me
-
-I’m a **future-facing technology leader**, focused on building intelligent systems, leading high-performance engineering teams, and delivering impact through AI and cloud strategy.
-
-🔹 **Chief Operating Officer @ B3L (B3L Holdings)** – designing large-scale AI experiences across Servers Systems and Programs  
-🔹 **Ex-Engineering AI Manager** – led distributed ML/AI product teams, owning product delivery from concept to scale  
-🔹 **Google Cloud Solution Partner** – co-developing next-gen, enterprise-grade AI infrastructures  
-
-> My mission: **Build smarter systems. Lead inspired teams. Drive exponential value.**
-
----
 
 ## 🚀 Expertise
 
@@ -38,51 +27,10 @@ I’m a **future-facing technology leader**, focused on building intelligent sys
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
-### 👨‍💻 Languages & Tools  
-`Python` • `C#` • `Go` • `TypeScript` • `React` • `Node.js` • `Bash` • `Next.js`  
-DevOps, CI/CD, Scalable APIs, R&D, MLOps Pipelines
-
-### 📊 Leadership & Vision  
-`Engineering Strategy` • `Team Scaling` • `Cross-functional Leadership` • `Operational Design` • `GTM Strategy`
-
 ---
-
-## 🏆 Awards & Recognition
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center"><img src="https://img.icons8.com/color/48/microsoft.png" height="28"/></td>
-    <td><strong>Microsoft Innovation Award</strong><br><i>AI/ML Engineering Excellence – 2024</i></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.icons8.com/color/48/google-cloud.png" height="28"/></td>
-    <td><strong>Google Cloud Spotlight Partner</strong><br><i>Enterprise Cloud AI Solutions – 2023</i></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.icons8.com/emoji/48/medal-sports.png" height="28"/></td>
-    <td><strong>Top 10 AI Leaders Under 40</strong><br><i>BizzTech Global Awards – 2022</i></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.icons8.com/color/48/strategy-board.png" height="28"/></td>
-    <td><strong>Best Operational Scale Strategy</strong><br><i>Tech Innovation Council – 2021</i></td>
-  </tr>
-</table>
-
-</div>
-
----
-
-## 📫 Let’s Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/antoni-cfg/))  
 - 🌐 [Portfolio](https://cfg.today/))  
 - ✉️ [contact@cfg.today]
 
 ---
-
-<p align="center">
-  <strong>“AI isn’t the future. It’s the baseline.”</strong><br>
-  <i>Code with purpose. Lead with clarity. Build what's next.</i> ⚙️
-</p>
